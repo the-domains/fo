@@ -25,7 +25,7 @@ app_links:
     app_name: Flickr
 title: Ÿ» vegan sashimi
 datePublished: "2015-04-26T18:01:47.223Z"
-dateModified: "2015-04-26T18:20:57.370Z"
+dateModified: "2015-04-26T19:12:04.419Z"
 sourcePath: _posts/2015-04-26-vegan-sashimi.md
 published: true
 tags:
@@ -46,3 +46,11 @@ _context: "http://schema.org"
 
 Ÿ» hello  world <
 <ú<ø**Õ**© (wave, flag, bold "fu", little "o").
+
+1. list one
+2. two
+3. three
+
+* bullet one
+* two
+* three
