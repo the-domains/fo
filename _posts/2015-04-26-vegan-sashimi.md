@@ -25,7 +25,7 @@ app_links:
     app_name: Flickr
 title: Ÿ» vegan sashimi
 datePublished: "2015-04-26T18:01:47.223Z"
-dateModified: "2015-04-26T19:12:04.419Z"
+dateModified: "2015-04-26T19:15:24.430Z"
 sourcePath: _posts/2015-04-26-vegan-sashimi.md
 published: true
 tags:
@@ -38,7 +38,7 @@ publisher:
   domain: www.flickr.com
   url: "https://www.flickr.com/"
   favicon: "https://s.yimg.com/pw/favicon.ico"
-_type: Photograph
+_type: Article
 _context: "http://schema.org"
 
 ---
