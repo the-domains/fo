@@ -28,7 +28,7 @@ inLanguage: English
 app_links: []
 isBasedOnUrl: "https://twitter.com/nytimes/status/604926804839792640"
 datePublished: "2015-05-31T11:29:45.940Z"
-dateModified: "2015-05-31T11:29:45.940Z"
+dateModified: "2015-05-31T12:02:45.299Z"
 sourcePath: _posts/2015-05-31-a-water-revolution-in-israel-has-allowed-the-country-to-over.md
 published: true
 _type: Photograph
