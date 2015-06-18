@@ -7,9 +7,9 @@ description: ''
 author: []
 related: []
 app_links: []
-title: durham art hotel
+title: pink art hotel
 datePublished: '2015-06-17T22:35:18.901Z'
-dateModified: '2015-06-18T02:22:15.883Z'
+dateModified: '2015-06-18T03:00:46.749Z'
 sourcePath: _posts/2015-06-17-google-photos.md
 published: true
 authors: []
