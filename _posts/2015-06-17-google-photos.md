@@ -9,7 +9,7 @@ related: []
 app_links: []
 title: pink art hotel
 datePublished: '2015-06-17T22:35:18.901Z'
-dateModified: '2015-06-18T14:44:37.393Z'
+dateModified: '2015-06-24T01:42:51.126Z'
 sourcePath: _posts/2015-06-17-google-photos.md
 published: true
 authors: []
