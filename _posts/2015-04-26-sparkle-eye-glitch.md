@@ -1,5 +1,5 @@
 ---
-isBasedOnUrl: 'http://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf904d4-7a8f-4274-9301-eb76c398a28f.gif'
+isBasedOnUrl: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf904d4-7a8f-4274-9301-eb76c398a28f.gif'
 inLanguage: null
 starred: false
 keywords: []
@@ -22,4 +22,4 @@ _type: MediaObject
 _context: 'http://schema.org'
 
 ---
-![](http://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf904d4-7a8f-4274-9301-eb76c398a28f.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf904d4-7a8f-4274-9301-eb76c398a28f.gif)
