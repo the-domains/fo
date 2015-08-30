@@ -8,8 +8,8 @@ author: []
 title: spark
 tags:
   - gif
-datePublished: '2015-08-30T20:15:44.185Z'
-dateModified: '2015-08-30T20:13:47.749Z'
+datePublished: '2015-08-30T20:16:16.885Z'
+dateModified: '2015-08-30T20:15:44.185Z'
 sourcePath: _posts/2015-04-26-sparkle-eye-glitch.md
 published: true
 authors: []
