@@ -5,7 +5,7 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 30 Aug 2015 20:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2015 20:50:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[we don't remain neutral]]></title>
@@ -19,6 +19,12 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c76676-56da-4e70-a6f5-7cc968cbbcb6.jpg">]]></description>
             <guid isPermaLink="false">6e298ca7-2791-4c2a-ac19-7899340bc15b</guid>
             <pubDate>Wed, 29 Jul 2015 10:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[hello human]]></title>
+            <description><![CDATA[<article><h1>hello human</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4902ce81-cded-4090-afb4-4377e8d29e0c.jpg"></article>]]></description>
+            <guid isPermaLink="false">94aca813-59d3-4dbb-8bfa-44a179264775</guid>
+            <pubDate>Sun, 30 Aug 2015 20:49:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +73,6 @@
             <link>https://thegrid.ai/fo/f9a261d4-03d2-4405-825c-5b42a60c5047/index.html</link>
             <guid isPermaLink="false">f9a261d4-03d2-4405-825c-5b42a60c5047</guid>
             <pubDate>Wed, 05 Aug 2015 20:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fuck Marshall McLuhan - Everything is Networked but Nothing is Connected]]></title>
-            <description><![CDATA[<article><h1>Fuck Marshall McLuhan - Everything is Networked but Nothing is Connected</h1><p>Best tedtalk ever. </p><img src="https://i.ytimg.com/vi/gdHpAuACzEA/hqdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/gdHpAuACzEA</link>
-            <guid isPermaLink="false">9aa0c38d-b3e7-4fee-a4ec-78f35f630a4f</guid>
-            <pubDate>Sun, 02 Aug 2015 09:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
