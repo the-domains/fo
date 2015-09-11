@@ -5,7 +5,7 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Sep 2015 14:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2015 02:19:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[we don't remain neutral]]></title>
@@ -21,8 +21,14 @@
             <pubDate>Wed, 29 Jul 2015 10:15:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Just checked with God...]]></title>
+            <description><![CDATA[<h1>Just checked with God...</h1>]]></description>
+            <guid isPermaLink="false">7f40e9dc-ab30-449b-aa96-81d9fb089ae0</guid>
+            <pubDate>Fri, 11 Sep 2015 02:19:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[this machine surrounds hate and forces it to surrender ☮]]></title>
-            <description><![CDATA[<article><h1>this machine surrounds hate and forces it to surrender ☮</h1><img src="https://farm8.staticflickr.com/7424/16334214317_5d432ac1eb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>this machine surrounds hate and forces it to surrender ☮</h1><img src="https://farm8.staticflickr.com/7424/16334214317_5d432ac1eb_b.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/forresto/16334214317/</link>
             <guid isPermaLink="false">6542eaf7-f7a8-417d-9cae-9c5435cd1537</guid>
             <pubDate>Wed, 02 Sep 2015 14:27:29 GMT</pubDate>
@@ -66,13 +72,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf904d4-7a8f-4274-9301-eb76c398a28f.gif</link>
             <guid isPermaLink="false">120ac14e-1fb2-4d51-a7e5-f4979bf6117c</guid>
             <pubDate>Sun, 30 Aug 2015 20:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The end of capitalism has begun]]></title>
-            <description><![CDATA[<article><h1>The end of capitalism has begun</h1><p>via rr</p><img src="http://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/7/16/1437064824576/f3ba5014-9489-4812-ab90-576a69c35bec-2060x1236.jpeg?w=1200&q=85&auto=format&sharp=10&s=d6feb7b2a9f070c0f814cff33a0eeba4"></article>]]></description>
-            <link>http://www.theguardian.com/books/2015/jul/17/postcapitalism-end-of-capitalism-begun</link>
-            <guid isPermaLink="false">181c41e9-1584-46bf-9ce3-24a932f9788a</guid>
-            <pubDate>Fri, 28 Aug 2015 20:23:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
