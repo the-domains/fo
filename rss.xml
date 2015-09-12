@@ -5,7 +5,7 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Sep 2015 02:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2015 02:27:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[we don't remain neutral]]></title>
@@ -19,6 +19,12 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c76676-56da-4e70-a6f5-7cc968cbbcb6.jpg">]]></description>
             <guid isPermaLink="false">6e298ca7-2791-4c2a-ac19-7899340bc15b</guid>
             <pubDate>Wed, 29 Jul 2015 10:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[day and night in berlin]]></title>
+            <description><![CDATA[<article><h1>day and night in berlin</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/717ce251-bcea-4137-922f-b3ccc22a5e7c.jpg"></article>]]></description>
+            <guid isPermaLink="false">24a83e8b-9090-43a1-a141-1c890dacc654</guid>
+            <pubDate>Sat, 12 Sep 2015 02:26:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just checked with God...]]></title>
@@ -65,13 +71,6 @@
             <link>http://www.theguardian.com/books/2015/jul/17/postcapitalism-end-of-capitalism-begun#img-3</link>
             <guid isPermaLink="false">666eddab-0bf4-4b3a-8dde-a077d9dfb0d0</guid>
             <pubDate>Sat, 29 Aug 2015 16:02:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[spark]]></title>
-            <description><![CDATA[<article><h1>spark</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf904d4-7a8f-4274-9301-eb76c398a28f.gif"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf904d4-7a8f-4274-9301-eb76c398a28f.gif</link>
-            <guid isPermaLink="false">120ac14e-1fb2-4d51-a7e5-f4979bf6117c</guid>
-            <pubDate>Sun, 30 Aug 2015 20:24:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
