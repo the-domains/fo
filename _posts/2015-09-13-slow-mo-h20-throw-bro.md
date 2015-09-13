@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://instagram.com/'
   name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/ce2ea83/images/ico/favicon.ico'
   domain: instagram.com
+  url: 'https://instagram.com/'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/ce2ea83/images/ico/favicon.ico'
 keywords: []
 app_links:
   - url: 'instagram://media?id=999676006594691180'
@@ -21,10 +21,14 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/3fkAgPjsBs/'
 title: Slow-mo-H20-throw-bro
-datePublished: '2015-09-13T14:05:12.814Z'
-dateModified: '2015-09-13T14:04:06.671Z'
+datePublished: '2015-09-13T18:53:38.373Z'
+dateModified: '2015-09-13T18:52:54.283Z'
 sourcePath: _posts/2015-09-13-slow-mo-h20-throw-bro.md
 published: true
+inLanguage: null
+starred: false
+description: ''
+authors: []
 _type: Photograph
 _context: 'http://schema.org'
 
