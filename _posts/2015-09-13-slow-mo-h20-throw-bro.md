@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/3fkAgPjsBs/'
 title: Slow-mo-H20-throw-bro
-datePublished: '2015-09-13T18:53:38.373Z'
-dateModified: '2015-09-13T18:52:54.283Z'
+datePublished: '2015-09-13T20:44:39.071Z'
+dateModified: '2015-09-13T18:53:38.373Z'
 sourcePath: _posts/2015-09-13-slow-mo-h20-throw-bro.md
 published: true
 inLanguage: null
