@@ -5,7 +5,7 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Sep 2015 23:55:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2015 11:43:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[we don't remain neutral]]></title>
@@ -19,6 +19,13 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c76676-56da-4e70-a6f5-7cc968cbbcb6.jpg">]]></description>
             <guid isPermaLink="false">6e298ca7-2791-4c2a-ac19-7899340bc15b</guid>
             <pubDate>Wed, 29 Jul 2015 10:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It is]]></title>
+            <description><![CDATA[<article><h1>It is</h1><img src="https://igcdn-photos-e-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/e15/11327184_1598095240432356_288449940_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/l5ICjbMegZ/</link>
+            <guid isPermaLink="false">525ea391-9037-4587-a3e5-246549130f40</guid>
+            <pubDate>Thu, 17 Sep 2015 11:43:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[praying mantis hyperlapse]]></title>
@@ -66,13 +73,6 @@
             <link>https://www.flickr.com/photos/forresto/16334214317/</link>
             <guid isPermaLink="false">6542eaf7-f7a8-417d-9cae-9c5435cd1537</guid>
             <pubDate>Wed, 02 Sep 2015 14:27:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[James Robert Lloyd]]></title>
-            <description><![CDATA[<article><h1>James Robert Lloyd</h1><p>Each of these images was produced in little over a minute... Let's see how... On the 26th August, researchers Leon Gatys, Alexander Ecker and Matthias Bethge posted A Neural Algorithm of Artistic Style on arXiv. They described an algorithm which allowed them to combine the style of one image with the content of another.</p><img src="http://mlg.eng.cam.ac.uk/lloyd/images/neural-art/content/eiffel-tower-1.jpg"></article>]]></description>
-            <link>http://mlg.eng.cam.ac.uk/lloyd/blog-2015-09-01-neural-art.html</link>
-            <guid isPermaLink="false">1286bbc2-fd32-4e5e-8d52-55eaf372d5aa</guid>
-            <pubDate>Tue, 01 Sep 2015 18:05:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
