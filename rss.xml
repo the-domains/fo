@@ -5,7 +5,7 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Sep 2015 14:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2015 14:17:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[we don't remain neutral]]></title>
@@ -19,6 +19,13 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c76676-56da-4e70-a6f5-7cc968cbbcb6.jpg">]]></description>
             <guid isPermaLink="false">6e298ca7-2791-4c2a-ac19-7899340bc15b</guid>
             <pubDate>Wed, 29 Jul 2015 10:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kaisla algorithms]]></title>
+            <description><![CDATA[<article><h1>Kaisla algorithms</h1><p>material meditations: kaisla </p><img src="https://farm1.staticflickr.com/561/19833919025_4fb262cf08_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/forresto/19833919025/</link>
+            <guid isPermaLink="false">cf9514d7-1304-445b-9fb7-37f1f532ba05</guid>
+            <pubDate>Fri, 18 Sep 2015 14:17:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pluto ‘Wows’ in Spectacular New Backlit Panorama]]></title>
@@ -67,12 +74,6 @@
             <description><![CDATA[<article><h1>day and night in berlin</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/717ce251-bcea-4137-922f-b3ccc22a5e7c.jpg"></article>]]></description>
             <guid isPermaLink="false">24a83e8b-9090-43a1-a141-1c890dacc654</guid>
             <pubDate>Sat, 12 Sep 2015 02:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just checked with God...]]></title>
-            <description><![CDATA[<h1>Just checked with God...</h1>]]></description>
-            <guid isPermaLink="false">7f40e9dc-ab30-449b-aa96-81d9fb089ae0</guid>
-            <pubDate>Fri, 11 Sep 2015 02:19:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
