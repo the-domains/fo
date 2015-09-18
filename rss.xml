@@ -5,7 +5,7 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Sep 2015 14:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2015 14:27:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[we don't remain neutral]]></title>
@@ -19,6 +19,12 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c76676-56da-4e70-a6f5-7cc968cbbcb6.jpg">]]></description>
             <guid isPermaLink="false">6e298ca7-2791-4c2a-ac19-7899340bc15b</guid>
             <pubDate>Wed, 29 Jul 2015 10:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[take note #designsys pippiverse]]></title>
+            <description><![CDATA[<article><h1>take note #designsys pippiverse</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7123172d-be2a-47d6-92a1-4a0bda1ba9d3.jpg"></article>]]></description>
+            <guid isPermaLink="false">3376cc5f-1a4f-41a9-bd02-a48b6f28ccc5</guid>
+            <pubDate>Fri, 18 Sep 2015 14:26:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kaisla algorithms]]></title>
@@ -68,12 +74,6 @@
             <link>https://thegrid.ai/fo/55b674f2-c207-46e4-bb19-065c5632b5b4/index.html</link>
             <guid isPermaLink="false">55b674f2-c207-46e4-bb19-065c5632b5b4</guid>
             <pubDate>Mon, 14 Sep 2015 23:36:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[day and night in berlin]]></title>
-            <description><![CDATA[<article><h1>day and night in berlin</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/717ce251-bcea-4137-922f-b3ccc22a5e7c.jpg"></article>]]></description>
-            <guid isPermaLink="false">24a83e8b-9090-43a1-a141-1c890dacc654</guid>
-            <pubDate>Sat, 12 Sep 2015 02:26:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
