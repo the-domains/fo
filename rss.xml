@@ -5,7 +5,7 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Sep 2015 02:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2015 15:21:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[we don't remain neutral]]></title>
@@ -19,6 +19,12 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c76676-56da-4e70-a6f5-7cc968cbbcb6.jpg">]]></description>
             <guid isPermaLink="false">6e298ca7-2791-4c2a-ac19-7899340bc15b</guid>
             <pubDate>Wed, 29 Jul 2015 10:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tallinn walkabout, http://www.disainioo.ee / 2015-09-19]]></title>
+            <description><![CDATA[<article><h1>Tallinn walkabout, http://www.disainioo.ee / 2015-09-19</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c34cc256-bd20-4956-9ba2-003e20824a04.jpg"></article>]]></description>
+            <guid isPermaLink="false">410aae14-4024-4ca4-8564-2abdbc53b642</guid>
+            <pubDate>Sat, 19 Sep 2015 15:21:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[G]]></title>
@@ -65,13 +71,6 @@
             <link>http://i.imgur.com/aK4RY7D.gifv</link>
             <guid isPermaLink="false">cef30a4a-6ff1-4e61-8281-605f399d9254</guid>
             <pubDate>Mon, 14 Sep 2015 23:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slow-mo-H20-throw-bro]]></title>
-            <description><![CDATA[<article><h1>Slow-mo-H20-throw-bro</h1><img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/e15/11280386_114321995567987_928852418_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/3fkAgPjsBs/</link>
-            <guid isPermaLink="false">3b990a84-7f17-4edd-8a5a-c70518c022ff</guid>
-            <pubDate>Sun, 13 Sep 2015 20:44:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
