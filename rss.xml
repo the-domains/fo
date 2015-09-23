@@ -5,7 +5,7 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2015 15:53:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[we don't remain neutral]]></title>
@@ -19,6 +19,13 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c76676-56da-4e70-a6f5-7cc968cbbcb6.jpg">]]></description>
             <guid isPermaLink="false">6e298ca7-2791-4c2a-ac19-7899340bc15b</guid>
             <pubDate>Wed, 29 Jul 2015 10:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West on 3d Printing]]></title>
+            <description><![CDATA[<h1>Kanye West on 3d Printing</h1>]]></description>
+            <link>https://thegrid.ai/fo/kanye-west-on-3d-printing/index.html</link>
+            <guid isPermaLink="false">719273d7-a60c-4596-9da0-c22f3de3054e</guid>
+            <pubDate>Wed, 23 Sep 2015 15:53:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tallinn walkabout, http://www.disainioo.ee / 2015-09-19]]></title>
@@ -65,13 +72,6 @@
             <link>https://instagram.com/p/l5ICjbMegZ/</link>
             <guid isPermaLink="false">525ea391-9037-4587-a3e5-246549130f40</guid>
             <pubDate>Sun, 20 Sep 2015 10:42:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[praying mantis hyperlapse]]></title>
-            <description><![CDATA[<article><h1>praying mantis hyperlapse</h1><p>brasstown, nc</p></article>]]></description>
-            <link>http://i.imgur.com/aK4RY7D.gifv</link>
-            <guid isPermaLink="false">cef30a4a-6ff1-4e61-8281-605f399d9254</guid>
-            <pubDate>Mon, 14 Sep 2015 23:55:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
