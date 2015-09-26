@@ -5,7 +5,7 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Sep 2015 19:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2015 20:22:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[we don't remain neutral]]></title>
@@ -19,6 +19,12 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c76676-56da-4e70-a6f5-7cc968cbbcb6.jpg">]]></description>
             <guid isPermaLink="false">6e298ca7-2791-4c2a-ac19-7899340bc15b</guid>
             <pubDate>Wed, 29 Jul 2015 10:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>the only time they let me vj</p>]]></description>
+            <guid isPermaLink="false">db7a8cc7-2129-4d63-b23e-05cc74dbd8b8</guid>
+            <pubDate>Sat, 26 Sep 2015 20:22:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -65,13 +71,6 @@
             <description><![CDATA[<article><h1>take note #designsys pippiverse</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7123172d-be2a-47d6-92a1-4a0bda1ba9d3.jpg"></article>]]></description>
             <guid isPermaLink="false">3376cc5f-1a4f-41a9-bd02-a48b6f28ccc5</guid>
             <pubDate>Fri, 18 Sep 2015 14:26:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kaisla algorithms]]></title>
-            <description><![CDATA[<article><h1>Kaisla algorithms</h1><p>material meditations: kaisla </p><img src="https://farm1.staticflickr.com/561/19833919025_4fb262cf08_b.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/forresto/19833919025/</link>
-            <guid isPermaLink="false">cf9514d7-1304-445b-9fb7-37f1f532ba05</guid>
-            <pubDate>Fri, 18 Sep 2015 14:17:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
