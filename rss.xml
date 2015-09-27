@@ -5,7 +5,7 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Sep 2015 22:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2015 02:06:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/fo/50743714-95a2-4bed-99d2-191bdf5e6f30/index.html</link>
             <guid isPermaLink="false">50743714-95a2-4bed-99d2-191bdf5e6f30</guid>
             <pubDate>Sat, 26 Sep 2015 22:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f717607-c5c6-473c-b432-996e2530d30b.jpg">]]></description>
+            <link>https://thegrid.ai/fo/dc6300c7-4f6f-49c4-9fd4-3e08ef362c81/index.html</link>
+            <guid isPermaLink="false">dc6300c7-4f6f-49c4-9fd4-3e08ef362c81</guid>
+            <pubDate>Sun, 27 Sep 2015 02:06:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[we don't remain neutral]]></title>
@@ -66,12 +73,6 @@
             <description><![CDATA[<article><h1>before images load.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6ea774a-2276-47b8-9ca1-8771fa6703fd.jpg"></article>]]></description>
             <guid isPermaLink="false">c18d6166-2df9-4d24-a8f2-b88f85c1ade5</guid>
             <pubDate>Sat, 19 Sep 2015 01:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[take note #designsys pippiverse]]></title>
-            <description><![CDATA[<article><h1>take note #designsys pippiverse</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7123172d-be2a-47d6-92a1-4a0bda1ba9d3.jpg"></article>]]></description>
-            <guid isPermaLink="false">3376cc5f-1a4f-41a9-bd02-a48b6f28ccc5</guid>
-            <pubDate>Fri, 18 Sep 2015 14:26:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
