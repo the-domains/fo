@@ -18,8 +18,8 @@ author: []
 related: []
 app_links: []
 title: face → plaster → photogrammetry
-datePublished: '2015-10-01T14:59:53.209Z'
-dateModified: '2015-09-30T16:30:16.125Z'
+datePublished: '2015-10-01T15:49:11.515Z'
+dateModified: '2015-10-01T14:59:53.209Z'
 tags:
   - ''
 authors: []
