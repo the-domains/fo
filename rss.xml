@@ -5,7 +5,7 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Oct 2015 14:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2015 14:39:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/fo/50743714-95a2-4bed-99d2-191bdf5e6f30/index.html</link>
             <guid isPermaLink="false">50743714-95a2-4bed-99d2-191bdf5e6f30</guid>
             <pubDate>Sat, 26 Sep 2015 22:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West on 3d Printing]]></title>
+            <description><![CDATA[<h1>Kanye West on 3d Printing</h1>]]></description>
+            <link>https://thegrid.ai/fo/kanye-west-on-3d-printing/index.html</link>
+            <guid isPermaLink="false">719273d7-a60c-4596-9da0-c22f3de3054e</guid>
+            <pubDate>Thu, 01 Oct 2015 14:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[face → plaster → photogrammetry]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c76676-56da-4e70-a6f5-7cc968cbbcb6.jpg">]]></description>
             <guid isPermaLink="false">6e298ca7-2791-4c2a-ac19-7899340bc15b</guid>
             <pubDate>Wed, 29 Jul 2015 10:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meemoo Live Animation at Zodiak]]></title>
-            <description><![CDATA[<article><h1>Meemoo Live Animation at Zodiak</h1><p>the only time they let me vj</p><img src="https://i.ytimg.com/vi/T_tCyYGLWKM/hqdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/T_tCyYGLWKM</link>
-            <guid isPermaLink="false">db7a8cc7-2129-4d63-b23e-05cc74dbd8b8</guid>
-            <pubDate>Sat, 26 Sep 2015 22:40:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
