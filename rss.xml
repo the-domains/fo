@@ -5,7 +5,7 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Oct 2015 18:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2015 12:00:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/fo/50743714-95a2-4bed-99d2-191bdf5e6f30/index.html</link>
             <guid isPermaLink="false">50743714-95a2-4bed-99d2-191bdf5e6f30</guid>
             <pubDate>Sat, 26 Sep 2015 22:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/220d200c-bf2f-414d-a3b8-3f3a3c6c99e0.jpg">]]></description>
+            <link>https://thegrid.ai/fo/52cd14b3-db1d-4975-80e0-5da90d0a45cc/index.html</link>
+            <guid isPermaLink="false">52cd14b3-db1d-4975-80e0-5da90d0a45cc</guid>
+            <pubDate>Fri, 09 Oct 2015 12:00:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[paper penrose triangle]]></title>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/fo/dc6300c7-4f6f-49c4-9fd4-3e08ef362c81/index.html</link>
             <guid isPermaLink="false">dc6300c7-4f6f-49c4-9fd4-3e08ef362c81</guid>
             <pubDate>Thu, 01 Oct 2015 14:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[we don't remain neutral]]></title>
-            <description><![CDATA[<article><h1>we don't remain neutral</h1><p>if we wash our hands of the conflict between the powerful and the powerless we side with the powerful -- we don't remain neutral</p><img src="https://i.imgur.com/UsL5z46.gif"></article>]]></description>
-            <link>https://i.imgur.com/UsL5z46.gif</link>
-            <guid isPermaLink="false">a1aa2c4e-8302-4fab-b4e9-96e827120849</guid>
-            <pubDate>Sat, 26 Sep 2015 22:38:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
