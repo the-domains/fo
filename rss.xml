@@ -1,15 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Fo]]></title>
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 19:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2015 17:10:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Meemoo Animation workshop at Eyebeam NYC]]></title>
+            <description><![CDATA[<article><h1>Meemoo Animation workshop at Eyebeam NYC</h1><img src="http://i.meemoo.me/openart/meemoo/WyEKrt34QoeBmaJHKJDh_meemoo-openart-stopmotion.gif"></article>]]></description>
+            <link>https://forresto.makes.org/thimble/moving-img-workshop</link>
+            <guid isPermaLink="false">0887ad8e-2d0c-4ada-8753-6eda28ba205e</guid>
+            <pubDate>Fri, 16 Oct 2015 17:10:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[蒟蒻 vegan sashimi]]></title>
-            <description><![CDATA[<article><h1>蒟蒻 vegan sashimi</h1><p>蒟蒻 hello ⌘ world 🌊🇺🇸フォ (wave, flag, bold "fu", little "o").</p><img src="https://farm1.staticflickr.com/7/7355522_b66e5d3078_m.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>蒟蒻 vegan sashimi</h1><p>蒟蒻 hello ⌘ world 🌊🇺🇸フォ (wave, flag, bold "fu", little "o").</p><img src="https://farm1.staticflickr.com/7/7355522_b66e5d3078_b.jpg"></article>]]></description>
             <link>https://thegrid.ai/fo/vegan-sashimi/index.html</link>
             <guid isPermaLink="false">1c1ca81c-1a73-4046-b5c2-5f35ecd6f369</guid>
             <pubDate>Tue, 13 Oct 2015 19:54:13 GMT</pubDate>
@@ -67,13 +73,6 @@
             <description><![CDATA[<article><h1>face → plaster → photogrammetry</h1><p>2015-09-29 22:54:23 from 123D 123D Catch available in .obj,.3dp,.stl; choose from a selection of other free 3D models for use in 123D, free 3D modelling software brought to you by Autodesk.</p><img src="http://static.spark.autodesk.com/2015/09/30__00_53_03/icon.pngdd600c37-6722-11e5-9f29-22000b53800cLarge.jpg"></article>]]></description>
             <link>http://www.123dapp.com/catch/2015-09-29-22-54-23/4487282</link>
             <guid isPermaLink="false">f32000f7-b516-49c1-986e-577b61c151b3</guid>
-            <pubDate>Thu, 01 Oct 2015 15:49:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Revolution of everyday" src="https://pbs.twimg.com/media/CP6hZl2UYAAhIqR.jpg:large">]]></description>
-            <link>https://twitter.com/tchoi8/status/648132874013667328</link>
-            <guid isPermaLink="false">871b78c4-5958-494f-9bf6-5621732274bc</guid>
             <pubDate>Thu, 01 Oct 2015 15:49:11 GMT</pubDate>
         </item>
     </channel>
