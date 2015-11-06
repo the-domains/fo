@@ -4,8 +4,15 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 21:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 14:51:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rainbow man moon -- by forresto (via WordsEye)]]></title>
+            <description><![CDATA[<article><h1>rainbow man moon -- by forresto (via WordsEye)</h1><p>WordsEye lets you type a picture! Create 3D scenes simply by describing them and share your creations with friends. A new world of visual expression and a new way to communicate and express yourself online.</p><img src="https://images.wordseye.com/ws-image-db/2015-11-6/25685.jpg"></article>]]></description>
+            <link>https://www.wordseye.com/view-picture/25685</link>
+            <guid isPermaLink="false">38dcc825-efb7-42ff-8f05-be4c0b15fde5</guid>
+            <pubDate>Fri, 06 Nov 2015 14:51:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Man-buns as cultural appropriation]]></title>
             <description><![CDATA[<article><h1>Man-buns as cultural appropriation</h1><p>Singer-songwriter Hozier played "guess the man buns" on VH1, and Buzzfeed facetiously claimed they had "Scientific Proof That All Celebrity Men are Hotter with Man Buns." Brad Pitt, Chris Hemsworth, and David Beckham have all sported the man bun. And no, I'm not talking about their glutes.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://meemoo.org/</link>
             <guid isPermaLink="false">e1292bb0-fbff-4b47-91cf-5f477cff6d40</guid>
             <pubDate>Fri, 09 Oct 2015 12:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[king popover]]></title>
-            <description><![CDATA[<article><h1>king popover</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/220d200c-bf2f-414d-a3b8-3f3a3c6c99e0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/fo/52cd14b3-db1d-4975-80e0-5da90d0a45cc/index.html</link>
-            <guid isPermaLink="false">52cd14b3-db1d-4975-80e0-5da90d0a45cc</guid>
-            <pubDate>Fri, 16 Oct 2015 20:30:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
