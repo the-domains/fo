@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T22:27:14.141Z'
-dateModified: '2016-01-04T22:26:43.772Z'
+datePublished: '2016-01-04T22:36:05.962Z'
+dateModified: '2016-01-04T22:35:59.646Z'
 title: Visualizing complex systems with emoji simulations
 author: []
+sourcePath: _posts/2016-01-04-visualizing-complex-systems-with-emoji-simulations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-visualizing-complex-systems-with-emoji-simulations.md
-published: true
 url: visualizing-complex-systems-with-emoji-simulations/index.html
 _type: Article
 
@@ -37,7 +37,6 @@ Playing with the prototype, here's a Rock Paper Scissors arena battle.
 Rules:
 
 💎✂️💎 → 💎◻️💎
-null
 
 ✂️◻️✂️ → ✂️✂️✂️
 
