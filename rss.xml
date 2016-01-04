@@ -4,8 +4,15 @@
         <description><![CDATA[Fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 05:59:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 22:27:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Visualizing complex systems with emoji simulations]]></title>
+            <description><![CDATA[<article><h1>Visualizing complex systems with emoji simulations</h1><p>http://ncase.me/simulating/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93ea52f42cb096ae31d00dab971d2135555bcedb.gif"></article>]]></description>
+            <link>https://thegrid.ai/fo/visualizing-complex-systems-with-emoji-simulations/index.html</link>
+            <guid isPermaLink="false">865656eb-5332-476d-8a98-7f87b743dd73</guid>
+            <pubDate>Mon, 04 Jan 2016 22:27:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[plastic strapping woven ball]]></title>
             <description><![CDATA[<article><h1>plastic strapping woven ball</h1><p>#packingcraft</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de9bc64006b41d8678799a037cd47bd0753d9dd4.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=YqGLKU5gCKg</link>
             <guid isPermaLink="false">50ace613-30b1-401f-88c7-b066bd042250</guid>
             <pubDate>Fri, 16 Oct 2015 21:29:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meemoo Animation workshop at Eyebeam NYC]]></title>
-            <description><![CDATA[<article><h1>Meemoo Animation workshop at Eyebeam NYC</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e0ac2c18c8290b050afea414baecbb3a005b594.gif"></article>]]></description>
-            <link>https://forresto.makes.org/thimble/moving-img-workshop</link>
-            <guid isPermaLink="false">0887ad8e-2d0c-4ada-8753-6eda28ba205e</guid>
-            <pubDate>Fri, 16 Oct 2015 17:10:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
