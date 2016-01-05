@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T13:51:42.259Z'
-dateModified: '2016-01-05T13:51:35.532Z'
+datePublished: '2016-01-05T13:58:54.813Z'
+dateModified: '2016-01-05T13:58:23.213Z'
 title: Visualizing complex systems with emoji simulations
 author: []
 sourcePath: _posts/2016-01-04-visualizing-complex-systems-with-emoji-simulations.md
@@ -42,8 +42,7 @@ Rules:
 
 * [Interactive.][1]
 * [v2 with defenses][2] (💎💎💎📃 → 💎💎✂️📃)[][2]
-null
-null
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87d752d139eb00a0f2c18bd34615a15f/noop.gif?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F93ea52f42cb096ae31d00dab971d2135555bcedb.gif)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41a8d236-571f-488c-a811-d69086cc9ca7.gif)
 
 [0]: http://ncase.me/simulating/
