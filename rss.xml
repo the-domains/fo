@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Fo]]></title>
-        <description><![CDATA[Fo]]></description>
+        <title><![CDATA[fo]]></title>
+        <description><![CDATA[fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 12:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 15:03:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Open(Art) exhibition opening and workshops -- presented by Eyebeam & Mozilla]]></title>
+            <description><![CDATA[<article><h1>Open(Art) exhibition opening and workshops -- presented by Eyebeam & Mozilla</h1><p>Credits: Fivel Rothberg, videography & editing A brief video tour of the opening reception and workshops for Open(Art), an initiative launched by Eyebeam and Mozilla to support creativity at the intersection of art and the open web. Three fellowships were awarded to support production of new work by Nortd Labs (Addie Wagenknecht and Stefan Hechenberger), Forrest Oliphant, and Toby Schachman.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e51cb2745498feb7091daacd6f63ac529de52af.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=FsNQEXfT1wM&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">2d492789-b8ec-4feb-92e2-21ddf267c369</guid>
+            <pubDate>Thu, 04 Feb 2016 15:03:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Texts from 3yo &equals; best" src="https://pbs.twimg.com/media/CZuhTurWkAAZbQZ.png:large">]]></description>
@@ -15,21 +22,21 @@
         </item>
         <item>
             <title><![CDATA[Visualizing complex systems with emoji simulations]]></title>
-            <description><![CDATA[<article><h1>Visualizing complex systems with emoji simulations</h1><p>http://ncase.me/simulating/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93ea52f42cb096ae31d00dab971d2135555bcedb.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Visualizing complex systems with emoji simulations</h1><p>http://ncase.me/simulating/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f9fa62f246d1b0d261c16863be67d0801083812.gif"></article>]]></description>
             <link>https://thegrid.ai/fo/visualizing-complex-systems-with-emoji-simulations/index.html</link>
             <guid isPermaLink="false">865656eb-5332-476d-8a98-7f87b743dd73</guid>
             <pubDate>Tue, 05 Jan 2016 13:58:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[plastic strapping woven ball]]></title>
-            <description><![CDATA[<article><h1>plastic strapping woven ball</h1><p>#packingcraft</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de9bc64006b41d8678799a037cd47bd0753d9dd4.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>plastic strapping woven ball</h1><p>#packingcraft</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c5b39d6a31b08f654cdc198ee3a82cb44584028.jpg"></article>]]></description>
             <link>https://thegrid.ai/fo/plastic-strapping-woven-ball/index.html</link>
             <guid isPermaLink="false">1692cfa1-9ff3-480a-b640-08103541dfb6</guid>
             <pubDate>Wed, 30 Dec 2015 05:59:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[cardboard treasure box for kid]]></title>
-            <description><![CDATA[<article><h1>cardboard treasure box for kid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9403f4e2bfc2c7835433363c7fa06cb6ca47cc1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>cardboard treasure box for kid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8a83f73006282d7c4f5ba4ca169aea200c33de9.jpg"></article>]]></description>
             <link>https://thegrid.ai/fo/cardboard-treasure-box-for-kid/index.html</link>
             <guid isPermaLink="false">cafd12e4-989a-41e6-9655-a75fa78fc1fd</guid>
             <pubDate>Wed, 30 Dec 2015 05:59:21 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/fo/529ce3af-3e88-49f5-90be-ada7670544e7/index.html</link>
             <guid isPermaLink="false">529ce3af-3e88-49f5-90be-ada7670544e7</guid>
             <pubDate>Sat, 31 Oct 2015 18:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[where is my damn hoverboard]]></title>
-            <description><![CDATA[<article><h1>where is my damn hoverboard</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b16f37a1f3b344ba9d6403afc310c0d408d1307.png"></article>]]></description>
-            <link>https://thegrid.ai/fo/where-is-my-damn-hoverboard/index.html</link>
-            <guid isPermaLink="false">6a3db840-2564-4345-83ea-3612c4da04a4</guid>
-            <pubDate>Wed, 21 Oct 2015 12:02:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
