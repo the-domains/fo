@@ -16,9 +16,9 @@ keywords:
   - taxes
   - countries
   - self-interest
-description: 'When U.S. politicians talk about Scandinavian-style social welfare, they fail to explain the most important aspect of such policies: selfishness. Please consider disabling it for our site, or supporting our work in one of these ways Subscribe Now > Bernie Sanders is hanging on, still pushing his vision of a Nordic-like socialist utopia for America, and his supporters love him for it.'
-datePublished: '2016-03-16T15:24:11.220Z'
-dateModified: '2016-03-16T15:23:46.495Z'
+description: "Clinton is wrong when she says that US policies promote entrepreneurship more than Nordic. How is a debt-saddled college grad, with the clock ticking on parent's health insurance, supposed to be comfortable starting a company?"
+datePublished: '2016-03-16T15:24:31.985Z'
+dateModified: '2016-03-16T15:24:18.568Z'
 author:
   - name: Anu Partanen
     url: 'http://www.theatlantic.com/author/anu-partanen/'
@@ -26,14 +26,14 @@ author:
 related: []
 app_links: []
 title: "What Bernie Sanders Knows About Nordic Countries That Hillary Clinton Doesn't"
+sourcePath: _posts/2016-03-16-what-bernie-sanders-knows-about-nordic-countries-that-hillar.md
+published: true
 authors: []
 publisher:
   name: The Atlantic
   domain: www.theatlantic.com
   url: 'http://www.theatlantic.com'
   favicon: 'http://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/favicon.ico'
-sourcePath: _posts/2016-03-16-what-bernie-sanders-knows-about-nordic-countries-that-hillar.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
