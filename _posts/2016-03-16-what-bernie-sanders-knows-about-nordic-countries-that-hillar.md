@@ -17,8 +17,8 @@ keywords:
   - countries
   - self-interest
 description: "Clinton is wrong when she says that US policies promote entrepreneurship more than Nordic. How is a debt-saddled college grad, with the clock ticking on parent's health insurance, supposed to be comfortable starting a company?"
-datePublished: '2016-03-16T15:24:31.985Z'
-dateModified: '2016-03-16T15:24:18.568Z'
+datePublished: '2016-03-16T15:26:32.947Z'
+dateModified: '2016-03-16T15:24:39.765Z'
 author:
   - name: Anu Partanen
     url: 'http://www.theatlantic.com/author/anu-partanen/'
