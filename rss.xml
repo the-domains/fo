@@ -4,8 +4,15 @@
         <description><![CDATA[fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 15:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 15:24:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Bernie Sanders Knows About Nordic Countries That Hillary Clinton Doesn't]]></title>
+            <description><![CDATA[<article><h1>What Bernie Sanders Knows About Nordic Countries That Hillary Clinton Doesn't</h1><p>Clinton is wrong when she says that US policies promote entrepreneurship more than Nordic. How is a debt-saddled college grad, with the clock ticking on parent's health insurance, supposed to be comfortable starting a company?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95c5a65905298bfd95498e1286a1930f941ae5f7.jpg"></article>]]></description>
+            <link>http://www.theatlantic.com/politics/archive/2016/03/bernie-sanders-nordic-countries/473385/</link>
+            <guid isPermaLink="false">23acb1cf-ce7e-46cb-a661-52680625093f</guid>
+            <pubDate>Wed, 16 Mar 2016 15:24:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Open(Art) exhibition opening and workshops -- presented by Eyebeam & Mozilla]]></title>
             <description><![CDATA[<article><h1>Open(Art) exhibition opening and workshops -- presented by Eyebeam & Mozilla</h1><p>Credits: Fivel Rothberg, videography & editing A brief video tour of the opening reception and workshops for Open(Art), an initiative launched by Eyebeam and Mozilla to support creativity at the intersection of art and the open web. Three fellowships were awarded to support production of new work by Nortd Labs (Addie Wagenknecht and Stefan Hechenberger), Forrest Oliphant, and Toby Schachman.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e51cb2745498feb7091daacd6f63ac529de52af.jpg"></article>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Visualizing complex systems with emoji simulations]]></title>
-            <description><![CDATA[<article><h1>Visualizing complex systems with emoji simulations</h1><p>http://ncase.me/simulating/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f9fa62f246d1b0d261c16863be67d0801083812.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Visualizing complex systems with emoji simulations</h1><p>http://ncase.me/simulating/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2fdf17980867503a83e958a02ddd714cb198829.gif"></article>]]></description>
             <link>https://thegrid.ai/fo/visualizing-complex-systems-with-emoji-simulations/index.html</link>
             <guid isPermaLink="false">865656eb-5332-476d-8a98-7f87b743dd73</guid>
             <pubDate>Tue, 05 Jan 2016 13:58:54 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/fo/man-buns-as-cultural-appropriation/index.html</link>
             <guid isPermaLink="false">74e65172-98f4-4e49-81ad-633fd1e1db45</guid>
             <pubDate>Tue, 03 Nov 2015 21:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hitchhiker's Guide pumpkin]]></title>
-            <description><![CDATA[<article><h1>Hitchhiker's Guide pumpkin</h1><p>Don't panic!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cea8928fc2ee441f5f6da800efd91ed215b32d0f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/fo/529ce3af-3e88-49f5-90be-ada7670544e7/index.html</link>
-            <guid isPermaLink="false">529ce3af-3e88-49f5-90be-ada7670544e7</guid>
-            <pubDate>Sat, 31 Oct 2015 18:21:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
