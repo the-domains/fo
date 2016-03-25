@@ -4,8 +4,15 @@
         <description><![CDATA[fo]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 15:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 01:46:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[35.0349449,-83.9676685]]></title>
+            <description><![CDATA[<h1>35.0349449,-83.9676685</h1>]]></description>
+            <link>https://www.google.com/maps/@35.0349449,-83.9676685,585m/data=!3m1!1e3</link>
+            <guid isPermaLink="false">a6839f56-c76e-4814-a7e6-b97a26a3954b</guid>
+            <pubDate>Fri, 25 Mar 2016 01:46:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Bernie Sanders Knows About Nordic Countries That Hillary Clinton Doesn't]]></title>
             <description><![CDATA[<article><h1>What Bernie Sanders Knows About Nordic Countries That Hillary Clinton Doesn't</h1><p>Clinton is wrong when she says that US policies promote entrepreneurship more than Nordic. How is a debt-saddled college grad, with the clock ticking on parent's health insurance, supposed to be comfortable starting a company?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95c5a65905298bfd95498e1286a1930f941ae5f7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.wordseye.com/view-picture/25685</link>
             <guid isPermaLink="false">38dcc825-efb7-42ff-8f05-be4c0b15fde5</guid>
             <pubDate>Fri, 06 Nov 2015 14:51:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man-buns as cultural appropriation]]></title>
-            <description><![CDATA[<article><h1>Man-buns as cultural appropriation</h1><p>Singer-songwriter Hozier played "guess the man buns" on VH1, and Buzzfeed facetiously claimed they had "Scientific Proof That All Celebrity Men are Hotter with Man Buns." Brad Pitt, Chris Hemsworth, and David Beckham have all sported the man bun. And no, I'm not talking about their glutes.</p></article>]]></description>
-            <link>https://thegrid.ai/fo/man-buns-as-cultural-appropriation/index.html</link>
-            <guid isPermaLink="false">74e65172-98f4-4e49-81ad-633fd1e1db45</guid>
-            <pubDate>Tue, 03 Nov 2015 21:06:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
