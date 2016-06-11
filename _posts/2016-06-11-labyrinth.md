@@ -1,10 +1,10 @@
 ---
-dateModified: '2016-06-11T05:17:39.276Z'
+dateModified: '2016-06-11T05:20:28.036Z'
+datePublished: '2016-06-11T05:20:36.935Z'
 description: ''
 inFeed: true
 title: Labyrinth
 author: []
-datePublished: '2016-06-11T05:18:35.317Z'
 starred: false
 sourcePath: _posts/2016-06-11-labyrinth.md
 _context: 'http://schema.org'
@@ -15,7 +15,7 @@ _type: Article
 
 # Labyrinth
 
-## subclass of space-filling curves
+## doodling space-filling curves
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df2123b7-998e-41c3-ac5c-dd0ef5f510e6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b92b244a-11f8-498e-b5d2-7ee2dc06186e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/635ce4844a2198bd7daeb2e9f9c17f5a2018dd65.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fdc65f6-a0b6-4552-b86d-db634d888cdc.jpg)
