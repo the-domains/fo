@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-06-12T17:14:55.157Z'
+datePublished: '2016-06-12T17:22:03.771Z'
 sourcePath: _posts/2016-06-11-labyrinth.md
 inFeed: true
 author: []
-dateModified: '2016-06-12T17:14:51.634Z'
+dateModified: '2016-06-12T17:21:56.515Z'
 title: Labyrinth
 description: >-
   Unicursal: A unicursal Maze means one without any junctions. Sometimes the
