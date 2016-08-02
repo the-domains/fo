@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Fo
+name: fo
 cta:
   domain: null
   bucket: null
@@ -27,4 +27,5 @@ cta:
 style: 'https://forresto.github.io/nilla-system/nilla.js'
 favicon: null
 title: Forrest O
+description: testing stuff
 purpose: []
