@@ -10,6 +10,7 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
+github: true
 opengraph:
   image: null
   type: null
