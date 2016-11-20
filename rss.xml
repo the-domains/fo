@@ -4,8 +4,9 @@
         <description><![CDATA[Forrest O]]></description>
         <link>https://thegrid.ai/fo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 12:55:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2016 22:57:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fo/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 20 Nov 2016 22:56:52 GMT</pubDate>
         <item>
             <title><![CDATA[Bike Astram and Shisho]]></title>
             <description><![CDATA[<article><h1>Bike Astram and Shisho</h1><p>mom and I, Hiroshima ‘99</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4afafe4-d402-44db-a94b-e4de852ddb3f.jpg"></article>]]></description>
@@ -68,6 +69,13 @@
             <link>https://thegrid.ai/fo/packing-craft-3/index.html</link>
             <guid isPermaLink="false">d317509c-a4b4-45e7-a35d-5ac4c9ab959d</guid>
             <pubDate>Wed, 30 Dec 2015 05:57:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[old DS exploit]]></title>
+            <description><![CDATA[<article><h1>old DS exploit</h1><p>ex-sploit… seems to not break stuff now.</p></article>]]></description>
+            <link>https://thegrid.ai/fo/old-ds-exploit/index.html</link>
+            <guid isPermaLink="false">df590a8d-4b44-4bb9-8de3-2bb34bf5db5f</guid>
+            <pubDate>Sun, 20 Nov 2016 22:56:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
